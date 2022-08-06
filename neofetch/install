@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -avr $PWD/mt /usr/share/neofetch/ascii/distro/
+cp -avr $PWD/neofetch /usr/bin/
